@@ -1,0 +1,165 @@
+@media (max-width: 767px){
+	.logo{
+		text-align: center;
+	}
+
+	.menu-header{
+		text-align: center;
+	}
+}
+
+@font-face {
+	font-family: 'Lato Black';
+	src: url("../fonts/Lato-Black.ttf");
+}
+
+@font-face {
+	font-family: 'Lato Light';
+	src: url("../fonts/Lato-Light.ttf");
+}
+
+body{
+	font-family: 'Lato Light';
+}
+
+.header-1{
+	    background: #262626;
+}
+
+.ul-menu{
+	    list-style: none;
+}
+
+.menu-header{
+	float: right;
+}
+
+.li-menu{
+	display: inline;
+	margin: 0 5px;
+}
+
+.menu-header{
+	    margin-top: 36px;
+}
+
+.li-menu a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.content-content-header{
+	text-align: center;
+	    font-size: 25px;
+}
+
+.content-header b{
+	    color: #fff;
+}
+
+.title-content-header{
+	text-align: center;
+	font-size: 34px;
+}
+
+.content-header button{
+	margin: 0 auto;
+    display: block;
+}
+
+.content-header{
+	background: #2a2a2a;
+	color: #b8b8b8;
+}
+
+.wrap-content-header{
+	padding: 22px 0px;
+}
+
+.main-1{
+	margin: 50px 0;
+}
+
+.wrap-main-1{
+	text-align: center;
+}
+
+.wrap-main-1 h3{
+	margin: 10px 0;
+}
+
+.main-2{
+	text-align: center;
+}
+
+.button-main-2{
+	margin: 20px 0;
+}
+
+.btn-danger{
+	padding: 5px 20px;
+    font-size: 12px;
+    background: #ff6760;
+    margin: 1px 0px;
+}
+
+.row-main-3{
+	margin: 25px 0;
+}
+
+.row-main-3 img{
+	width: 100%;
+}
+
+.footer-1{
+    background: #313131;
+    text-align: center;
+}
+
+.footer-2{
+	background:#2c2c2c;
+	color: #bebebe;
+    text-align: center;
+        padding: 20px 0;
+}
+
+.footer-1 h2{
+    color: #e0e0e0;
+}
+
+.footer-1 p{
+    color: #737373;
+}
+
+.container-footer-1{
+    padding: 35px 0;
+}
+
+.content-note i{
+	color: #ff6760;
+}
+
+.content-note p{
+	color: #bebebe;
+	display: inline;
+}
+
+.fa-wifi{
+	color: #f3b25b;
+}
+
+.fa-facebook-f{
+	color: #5883c0;
+}
+
+.fa-tumblr-square{
+	color: #63bee0;
+}
+
+.fa-pinterest{
+    color: #d35051;
+}
+
+.icon-info{
+	margin-top: 10px;
+}
